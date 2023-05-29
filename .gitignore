@@ -163,3 +163,4 @@ cython_debug/
 # Eddy
 data/
 runs/
+best_model.pt
