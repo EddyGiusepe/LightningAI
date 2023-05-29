@@ -164,3 +164,4 @@ cython_debug/
 data/
 runs/
 best_model.pt
+mnist_train/
