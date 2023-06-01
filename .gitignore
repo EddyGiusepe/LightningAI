@@ -165,3 +165,4 @@ data/
 runs/
 best_model.pt
 mnist_train/
+data_MNIST/
