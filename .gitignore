@@ -166,3 +166,4 @@ runs/
 best_model.pt
 mnist_train/
 data_MNIST/
+Model_RedeNeural_Classification.pt
