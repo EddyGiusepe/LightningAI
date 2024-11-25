@@ -170,3 +170,4 @@ Model_RedeNeural_Classification.pt
 datatrain/
 datateste/
 venv_Lightning/
+lightning_logs/
