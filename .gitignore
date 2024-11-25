@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 
-# Eddy
+# EddyGiusepe
 data/
 runs/
 best_model.pt
@@ -169,3 +169,4 @@ data_MNIST/
 Model_RedeNeural_Classification.pt
 datatrain/
 datateste/
+venv_Lightning/
