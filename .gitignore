@@ -171,3 +171,4 @@ datatrain/
 datateste/
 venv_Lightning/
 lightning_logs/
+logs/
